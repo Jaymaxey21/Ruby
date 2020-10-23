@@ -38,9 +38,12 @@ TagManager:
   - NPC
   - Camera
   m_SortingLayers:
-  - name: Background
+  - name: projectile
     uniqueID: 2766579207
     locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: player
+    uniqueID: 1769851897
     locked: 0
